@@ -1,0 +1,10 @@
+!
+! Title: Lista de paginas de apuestas Blocklist
+! Description: Bloquea sitios web de apuestas.
+! Version: 1
+! Homepage: https://github.com/hagezi/dns-blocklists#gambling
+! Last modified: 2026-06-08
+!
+! Compiled by ignacio
+!
+||nic.cl^
