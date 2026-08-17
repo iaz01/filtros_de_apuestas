@@ -12,3 +12,4 @@
 ||teletrak.cl^
 ||clubhipico.cl^
 ||clubhipicoconcepcion.cl^
+||polla.cl^
