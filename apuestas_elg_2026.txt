@@ -13,3 +13,5 @@
 ||clubhipico.cl^
 ||clubhipicoconcepcion.cl^
 ||polla.cl^
+||loteria.cl^
+||kino.cl^
