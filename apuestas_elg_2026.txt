@@ -15,3 +15,5 @@
 ||polla.cl^
 ||loteria.cl^
 ||kino.cl^
+||chilevision.cl^
+||chv.cl^
