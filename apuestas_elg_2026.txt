@@ -50,3 +50,5 @@
 ||www.radioschilenas.com^
 ||radios-chilenas.com^
 ||www.radios-chilenas.com^
+||corazon.cl^
+||www.corazon.cl^
