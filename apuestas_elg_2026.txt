@@ -51,4 +51,6 @@
 ||corazon.cl^
 ||www.corazon.cl^
 ||emisora.cl^
+||myradioonline.cl^
+||radioplayer.myradioonline.cl^
 
