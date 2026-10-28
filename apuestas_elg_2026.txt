@@ -18,5 +18,5 @@
 ||radiobiobio.cl^
 ||biobiochile.cl^
 ||www.biobiochile.cl^
-||vivo.biobiochile.cl
-||radios-chilenas.com/radio-bio-bio
+||vivo.biobiochile.cl^
+||radios-chilenas.com/radio-bio-bio^
