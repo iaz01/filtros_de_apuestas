@@ -16,3 +16,5 @@
 ||loteria.cl^
 ||kino.cl^
 ||radiobiobio.cl^
+||biobiochile.cl^
+||www.biobiochile.cl^
