@@ -50,4 +50,5 @@
 ||www.radios-chilenas.com^
 ||corazon.cl^
 ||www.corazon.cl^
+||emisora.cl^
 
