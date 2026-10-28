@@ -18,3 +18,4 @@
 ||radiobiobio.cl^
 ||biobiochile.cl^
 ||www.biobiochile.cl^
+||vivo.biobiochile.cl
