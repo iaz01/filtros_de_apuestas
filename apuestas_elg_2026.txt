@@ -46,9 +46,8 @@
 ||radiopunto7.cl^
 ||radiomaria.cl^
 ||radioschilenas.com^
-||www.radioschilenas.com^
 ||radios-chilenas.com^
 ||www.radios-chilenas.com^
 ||corazon.cl^
 ||www.corazon.cl^
-||radios-chilenas.com^
+
