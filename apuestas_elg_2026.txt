@@ -88,3 +88,4 @@
 ||viki.com^
 ||universalplus.com^
 ||mdtradio.com^
+||mdradio.com.ar^
