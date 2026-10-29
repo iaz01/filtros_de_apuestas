@@ -62,3 +62,16 @@
 ||pluto.tv^
 ||pluto.tv.*
 ||plutotv.net^
+||pluto.tv^
+||plutotv.net^
+||netflix.com^
+||disneyplus.com^
+||max.com^
+||hbomax.com^
+||primevideo.com^
+||amazonvideo.com^
+||tubitv.com^
+||plex.tv^
+||rakuten.tv^
+||paramountplus.com^
+||tv.apple.com^
