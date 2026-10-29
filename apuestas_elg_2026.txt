@@ -75,3 +75,4 @@
 ||rakuten.tv^
 ||paramountplus.com^
 ||tv.apple.com^
+||fmdos.cl^
