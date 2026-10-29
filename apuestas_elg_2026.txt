@@ -76,3 +76,16 @@
 ||paramountplus.com^
 ||tv.apple.com^
 ||fmdos.cl^
+||zappingtv.com^
+||zapping.com^
+||directvgo.com^
+||dgo.com^
+||vtrplay.cl^
+||movistarplay.cl^
+||cntvplay.cl^
+||uchile.tv^
+||tubitv.com^
+||vix.com^
+||mubi.com^
+||viki.com^
+||universalplus.com^
