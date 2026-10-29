@@ -53,4 +53,9 @@
 ||emisora.cl^
 ||myradioonline.cl^
 ||radioplayer.myradioonline.cl^
-
+||tvn.cl^
+||24horas.cl^
+||mega.cl^
+||chilevision.cl^
+||13.cl^
+||tvmas.tv^
