@@ -91,3 +91,4 @@
 ||mdradio.com.ar^
 ||myradioonline.cl^
 ||radiosonline.cl^
+||www.carolina.cl^
