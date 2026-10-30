@@ -47,7 +47,6 @@
 ||radiomaria.cl^
 ||radioschilenas.com^
 ||radios-chilenas.com^
-||corazon.cl^
 ||emisora.cl^
 ||myradioonline.cl^
 ||radioplayer.myradioonline.cl^
@@ -57,9 +56,6 @@
 ||chilevision.cl^
 ||13.cl^
 ||tvmas.tv^
-||pluto.tv^
-||pluto.tv.*
-||plutotv.net^
 ||pluto.tv^
 ||plutotv.net^
 ||netflix.com^
@@ -73,7 +69,6 @@
 ||rakuten.tv^
 ||paramountplus.com^
 ||tv.apple.com^
-||fmdos.cl^
 ||zappingtv.com^
 ||zapping.com^
 ||directvgo.com^
@@ -82,13 +77,10 @@
 ||movistarplay.cl^
 ||cntvplay.cl^
 ||uchile.tv^
-||tubitv.com^
 ||vix.com^
 ||mubi.com^
 ||viki.com^
 ||universalplus.com^
 ||mdtradio.com^
 ||mdradio.com.ar^
-||myradioonline.cl^
 ||radiosonline.cl^
-||www.carolina.cl^
