@@ -89,3 +89,5 @@
 ||universalplus.com^
 ||mdtradio.com^
 ||mdradio.com.ar^
+||myradioonline.cl^
+
